@@ -3,7 +3,7 @@ ShadowsocksR for Windows
 
 [![Build Status]][Appveyor]
 
-#### How to user
+#### How to use
 
 wget -N --no-check-certificate https://github.com/Liaofushen/shadowsocksr-csharp/blob/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
