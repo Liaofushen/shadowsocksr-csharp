@@ -3,6 +3,10 @@ ShadowsocksR for Windows
 
 [![Build Status]][Appveyor]
 
+#### use method
+
+wget -N --no-check-certificate https://github.com/Liaofushen/shadowsocksr-csharp/blob/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+
 #### Download
 
 You will need to download and install [7-Zip](http://www.7-zip.org/) in order 
